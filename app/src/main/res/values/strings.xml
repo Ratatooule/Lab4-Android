@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="sum">Sum</string>
+    <string name="answer">Answer</string>
+    <string name="firstNumber">Enter first number</string>
+    <string name="secondNumber">Enter second number</string>
+    <string name="changeColor">Change color</string>
+    <string name="nextActivity">Next Activity</string>
+    <string name="nextFragment">Next Fragment</string>
+    <string name="thirdFragment">Third Fragment</string>
+    <string name="list_activity">List of calculations</string>
+    <string name="swap">Swap</string>
+</resources>

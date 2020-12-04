@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Лаб3</string>
+    <string name="sum">Сумма</string>
+    <string name="answer">Ответ</string>
+    <string name="firstNumber">Введите первое число</string>
+    <string name="secondNumber">Введите второе число</string>
+    <string name="changeColor">Изменить цвет</string>
+    <string name="nextActivity">Следующая активность</string>
+    <string name="nextFragment">Следующий фрагмент</string>
+    <string name="thirdFragment">Третий фрагмент</string>
+    <string name="list_activity">Список расчетов</string>
+    <string name="swap">Поменять</string>
+</resources>
